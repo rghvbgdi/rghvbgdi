@@ -11,7 +11,7 @@
     <a href="mailto:raghavbagdi87@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <a href="https://leetcode.com/u/oscarbully" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
     </a>
   </div>
