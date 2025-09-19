@@ -5,11 +5,14 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
   <div align="center">
-    <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/raghav-bagdi-6789b3261/)" target="_blank">
+    <a href="https://www.linkedin.com/in/raghav-bagdi-6789b3261/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-     <a href="mailto:raghavbagdi87@gmail.com">
+    <a href="mailto:raghavbagdi87@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
     </a>
   </div>
 </div>
@@ -74,4 +77,3 @@ Here are the technologies I work with. I'm always excited to learn more!
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
 </p>
-
